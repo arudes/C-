@@ -1,2 +1,2 @@
-# C-
-Curso de C++
+# C++
+Curso de C++ Inicios
